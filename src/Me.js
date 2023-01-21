@@ -45,7 +45,7 @@ class Me extends React.Component {
         <div className='paper'>
           <h2 style={h2Style}>Evan Smalley </h2>
           <p>Hello, I am a software developer @ <a href='https://www.myhelo.com' target='_blank' rel='noreferrer'>myhELO</a>.</p>
-          <p>Creator of <a href='https://sportsranking.io' target='_blank' rel='noreferrer'>sportsranking.io</a>.</p>
+          <p>Building <a href='https://srating.io' target='_blank' rel='noreferrer'>srating.io</a>.</p>
           <p>Some quick things about me:</p>
           <ul>
             <li>Located in Carmel, Indiana</li>
